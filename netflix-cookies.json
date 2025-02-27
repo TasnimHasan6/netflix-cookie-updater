@@ -27,7 +27,7 @@
     },
     {
         "domain": ".netflix.com",
-        "expirationDate": 1740664682.83176,
+        "expirationDate": 1740665158.131411,
         "hostOnly": false,
         "httpOnly": false,
         "name": "profilesNewSession",
